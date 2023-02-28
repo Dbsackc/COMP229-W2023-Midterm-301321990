@@ -1,6 +1,6 @@
 {
-  "name": "comp229-f2020-midterm",
-  "version": "0.0.1",
+  "name": "comp229-w2023-midterm-301321990",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -25,7 +25,7 @@
     "popper.js": "^1.16.1"
   },
   "engines": {
-    "node": "^10.15.0",
+    "node": ">=14.20.1",
     "npm": "^6.0.0"
   },
   "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
@@ -52,7 +52,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Chan Kai Chung",
   "license": "ISC",
   "bugs": {
     "url": ""

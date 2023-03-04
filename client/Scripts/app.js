@@ -1,3 +1,4 @@
+/* app.js Chan Kai Chung 301321990 Mid-Term Test*/
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
